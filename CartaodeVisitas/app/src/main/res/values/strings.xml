@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">AppBusinessCard</string>
+    <string name="label_business_cards">Cartão de Visita</string>
+    <string name="label_description_new_card">Novo Cartão</string>
+    <string name="label_nome">Nome</string>
+    <string name="label_telefone">Telefone</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_empresa">Empresa</string>
+    <string name="label_cor">Cor</string>
+    <string name="label_botaofechar">BotaoFechar</string>
+    <string name="label_confirmar">Confirmar</string>
+    <string name="label_show_success">Cartão cadastrado com sucesso</string>
+    <string name="label_share">Compartilhar</string>
+    <string name="label_jscript">JScript</string>
+    <string name="label_csharp">C#</string>
+    <string name="label_java">Java</string>
+    <string name="label_kotlin">Kotlin</string>
+    <string name="label_escolha_2_habilidades">Escolha 2 habilidades</string>
+    <string name="label_senioridade">Senioridade</string>
+    <string name="label_especialidade">Especialidade</string>
+    <string name="label_sql">SQL</string>
+
+
+    <string-array name="cores">
+        <item>Amarelo</item>
+        <item>Azul</item>
+        <item>Branco</item>
+        <item>Verde</item>
+        <item>Vermelho</item>
+        <item>Rosa</item>
+    </string-array>
+
+    <string-array name="senioridade">
+        <item>Júnior</item>
+        <item>Pleno</item>
+        <item>Sênior</item>
+    </string-array>
+</resources>
